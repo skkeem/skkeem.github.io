@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Sungkook Kim
 permalink: /about/
 ---
 
-Some information about you!
+PhD student in Computer Science department at UC Davis
 
-### More Information
+Advisor: [Aditya V. Thakur](http://thakur.cs.ucdavis.edu/)
 
-A place to include any other types of information that you'd like to include about yourself.
-
+<!---
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
+--->
