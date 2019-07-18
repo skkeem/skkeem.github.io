@@ -9,7 +9,6 @@ Advisor: [Prof. Aditya V. Thakur](https://thakur.cs.ucdavis.edu/)
 University of California, Davis  
 Department of Computer Science  
 [[CV]({{ site.baseurl }}/files/cv.pdf)]  
-2073 Academic Surge Building
 
 <!--Forging novel techniques, finding interesting applications.-->
 
@@ -23,13 +22,9 @@ Department of Computer Science
    [[PDF](https://www.google.com)]
 
 ----
-## Education
+## Teaching
 
-- **M.S. Electrical and Computer Engineering, 2017**  
-  Seoul National University (SNU)
-
-- **B.S. Computer Science, Physics (Minor), 2015**  
-  Korea Advanced Institute of Science and Technology (KAIST)
+- TODO
 
 ----
 ## Work Experience
@@ -37,8 +32,10 @@ Department of Computer Science
 - **Nearthlab**
 
 ----
-## Teaching
+## Education
 
-- TODO
+- **M.S. Electrical and Computer Engineering, 2017**  
+  Seoul National University (SNU)
 
-----
+- **B.S. Computer Science, Physics (Minor), 2015**  
+  Korea Advanced Institute of Science and Technology (KAIST)
