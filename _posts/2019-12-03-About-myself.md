@@ -33,7 +33,7 @@ Department of Computer Science
 ----
 ## Work Experience
 
-- **Software Engineer Intern, Nearthlab, 2018.02 - 2018.07**
+- **Software Engineer Intern, [Nearthlab](https://nearthlab.com), 2018.02 - 2018.07**
 
 ----
 ## Education
