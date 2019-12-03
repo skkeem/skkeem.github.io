@@ -16,26 +16,23 @@ Department of Computer Science
 ## Publications
 
 ### Refereed Conference Publications
-1. **WPO. TODO**  
-   TODO  
-   **TODO**, TODO  
-   [[PDF](https://www.google.com)]
-
-----
-## Teaching
-
-- TODO
+1. **Deterministic Parallel Fixpoint Computation**  
+   PACMPL (POPL), 2020
+   [[preprint](https://https://arxiv.org/abs/1909.05951)]
 
 ----
 ## Work Experience
 
-- **Nearthlab**
+- **Software Engineer Intern, Nearthlab, 2018.02 - 2018.07**
 
 ----
 ## Education
 
-- **M.S. Electrical and Computer Engineering, 2017**  
+- **Ph.D. Student, Computer Science, 2018 - Present**  
+  University of California, Davis (UC Davis)
+
+- **M.S.,  Electrical and Computer Engineering, 2017**  
   Seoul National University (SNU)
 
-- **B.S. Computer Science, Physics (Minor), 2015**  
+- **B.S., Computer Science, Physics (Minor), 2015**  
   Korea Advanced Institute of Science and Technology (KAIST)
