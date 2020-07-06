@@ -18,7 +18,7 @@ Department of Computer Science
 ### Refereed Conference Publications
 1. **Deterministic Parallel Fixpoint Computation**  
    Proceedings of the ACM on Programming Languages (PACMPL), 2020  
-   [[preprint](https://arxiv.org/abs/1909.05951)]
+   [[url](https://doi.org/10.1145/3371082)]
 
 2. **Advanced ahead-of-time compilation for Javascript engine: work-in-progress**  
    International Conference on Compilers, Architectures and Synthesis for Embedded Systems (CASES), 2017  
