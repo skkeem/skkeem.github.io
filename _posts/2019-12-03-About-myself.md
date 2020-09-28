@@ -24,6 +24,9 @@ Department of Computer Science
    Proceedings of the ACM on Programming Languages (POPL), 2020  
    [[url](https://doi.org/10.1145/3371082)]
    [[code](https://github.com/95616ARG/pikos_popl2020)]
+   [[video](https://youtu.be/Xsg_FsJI308)]
+   - Code integrated into NASA [IKOS](https://github.com/NASA-SW-VnV/ikos)
+   - Code integrated into Facebook [SPARTA](https://github.com/facebookincubator/SPARTA)
 
 3. **Reusing the Optimized Code for JavaScript Ahead-of-Time Compilation**  
    ACM Transactions on Architecture and Code Optimization (TACO), 2019  
