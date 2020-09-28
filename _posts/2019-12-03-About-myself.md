@@ -15,23 +15,23 @@ Department of Computer Science
 ----
 ## Publications
 
-### Refereed Conference Publications
 1. **Memory-efficient Fixpoint Computation**  
    27th Static Analysis Symposium (SAS), 2020  
+   [[preprint](https://arxiv.org/abs/2009.05865)]
+   [[code](https://github.com/95616ARG/mikos_sas2020)]
 
 2. **Deterministic Parallel Fixpoint Computation**  
    Proceedings of the ACM on Programming Languages (POPL), 2020  
    [[url](https://doi.org/10.1145/3371082)]
+   [[code](https://github.com/95616ARG/pikos_popl2020)]
 
-3. **Advanced ahead-of-time compilation for Javascript engine: work-in-progress**  
-   International Conference on Compilers, Architectures and Synthesis for Embedded Systems (CASES), 2017  
-   [[url](https://doi.org/10.1145/3125501.3125512)]
-
-### Refereed Journal Publications
-1. **Reusing the Optimized Code for JavaScript Ahead-of-Time Compilation**  
+3. **Reusing the Optimized Code for JavaScript Ahead-of-Time Compilation**  
    ACM Transactions on Architecture and Code Optimization (TACO), 2019  
    [[url](https://doi.org/10.1145/3291056)]
 
+4. **Advanced ahead-of-time compilation for Javascript engine: work-in-progress**  
+   International Conference on Compilers, Architectures and Synthesis for Embedded Systems (CASES), 2017  
+   [[url](https://doi.org/10.1145/3125501.3125512)]
 
 ----
 ## Work Experience
