@@ -19,6 +19,8 @@ Department of Computer Science
    27th Static Analysis Symposium (SAS), 2020  
    [[preprint](https://arxiv.org/abs/2009.05865)]
    [[code](https://github.com/95616ARG/mikos_sas2020)]
+   [[video](https://youtu.be/vAfTmcEZuGw)]
+   - **SAS 2020 Radhia Cousot Young Researcher Best Paper Award** [[link](https://conf.researchr.org/attending/sas-2020/awards)]
 
 2. **Deterministic Parallel Fixpoint Computation**  
    Proceedings of the ACM on Programming Languages (POPL), 2020  
